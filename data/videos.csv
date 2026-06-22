@@ -1,16 +1,49 @@
 video_id,title,subject,topic,difficulty
-nKW8Ndu7Mjw,What is Machine Learning?,Computer Science,Machine Learning Basics,1
-aircAruvnKk,3Blue1Brown: Neural Networks,Computer Science,Neural Networks,1
-f_uwKZIAeM0,Linear Regression in Python,Computer Science,Linear Regression,2
-cKxRvEZd3Mw,Gradient Descent Explained,Computer Science,Optimization,2
-I74ymkoNTnw,Backpropagation Calculus,Computer Science,Neural Networks,3
-O5xeyoRL95U,Understanding Bias and Variance,Computer Science,Model Tuning,3
-vT1JzLTH4G4,A Friendly Introduction to Deep Learning,Computer Science,Deep Learning,1
-qFJeN9V1ZsI,What is a Random Forest?,Computer Science,Decision Trees,2
-BfS2H1y6tzQ,Mathematics of Support Vector Machines,Computer Science,SVM Math,3
-jZkqKpK2xSg,Intro to Pandas for Data Science,Computer Science,Python Libraries,1
-88XfAAn6I0o,Introduction to HTML and CSS,Web Development,Frontend Basics,1
-W6NZfCO5SIk,JavaScript Crash Course for Beginners,Web Development,JavaScript,1
-916GWv2_eLk,Building a REST API with Node.js,Web Development,Backend Development,2
-30LWjhZR6eg,React JS Full Tutorial for Beginners,Web Development,Frontend Frameworks,2
-Ke90Tje7VS0,Next.js App Router Masterclass,Web Development,Advanced Frontend,3
+https://youtu.be/37E9ckMDdTk?si=X_b8udofDYnC1lsX,Second largedt Element in Array ,DSA,ARRAY,1
+https://youtu.be/wvcQg43_V8U?si=4Wlw1EgfxAS2RXUu,Rotate array by k places ,DSA,ARRAY,2
+https://youtu.be/bYWLJb3vCWY?si=h_6jJdCgPXw0elMh,Element that appears only once,DSA,ARRAY,3
+https://youtu.be/frf7qxiN2qU?si=rdFc53XTLGBup0DD,Longest subarray with sum k,DSA,ARRAY,4
+https://youtu.be/UXDSeD9mN-k?si=ImYsbMAo7Ge1LHJ5,Two Sum ,DSA,ARRAY,5
+https://youtu.be/nP_ns3uSh80?si=JDBa7C1HRVP8fRXv,Majority Element ,DSA,ARRAY,6
+https://youtu.be/excAOvwF_Wk?si=v41pdT0m1SF63wcm,BEST time to buy and sell stocks,DSA,ARRAY,7
+https://youtu.be/MHf6awe89xw?si=-4Dpl0lfc5iPsjWe,BinarySearch Intro,DSA,Binary Search,1
+https://youtu.be/6zhGS79oQ4k?si=vtjGJ_cKsMiYOeW5,Lower and Upper Bound,DSA,Binary Search,2
+https://youtu.be/hjR1IYVx9lY?si=TNKppMbA7dcwx4ey,First and last occurence in array ,DSA,Binary Search,3
+https://youtu.be/5qGrJbHhqFs?si=hxuOVjPhBxJFQuoV,Search in sorted array,DSA,Binary Search,4
+https://youtu.be/w2G2W8l__pc?si=LUbZ1y9bqRmjhjvg,Search in Rotated sorted array,DSA,Binary Search,5
+https://youtu.be/Bsv3FPUX_BA?si=ApNTGC5-Yo5wxcqO,Find SQRT OF NUMBER,DSA,Binary Search,6
+https://youtu.be/qyfekrNni90?si=-7kjbF1hJpdU3yxV,koko eating banana,DSA,Binary Search,7
+https://youtu.be/_ANrF3FJm7I?si=i2wQf07uCx6o9DA4,Trees,DSA,Trees,1
+https://youtu.be/ctCpP0RFDFc?si=iHHT1WgZGhGq1_Xg,Tree Representation c++,DSA,Trees,2
+https://youtu.be/hyLyW7rP24I?si=6k3HSa_bvXmxkCsL,Binary tree representation ,DSA,Trees,3
+https://youtu.be/jmy0LaGET1I?si=FEnpZjbFvyoLBvkg,Binary tree traversal ,DSA,Trees,4
+https://youtu.be/RlUu72JrOCQ?si=KssDJNbl3pgSbve3,Pre-order traversal,DSA,Trees,5
+https://youtu.be/Z_NEgBgbRVI?si=p3GAJl5lS-JJVLuC,In-order traversal,DSA,Trees,6
+https://youtu.be/COQOU6klsBg?si=MGcfZKGugCqJouWj,Post-order traversal,DSA,Trees,7
+https://youtu.be/M3_pLsDdeuU?si=w6KdquEB7YfPdLJm,Graphs introduction ,DSA,Graph,1
+https://youtu.be/3oI-34aPMWM?si=-AwTVkHlHkWK0_ES,Graphs Representation ,DSA,Graph,2
+https://youtu.be/lea-Wl_uWXY?si=jkgkA580zWc4cDZu,Connected Components,DSA,Graph,3
+https://youtu.be/-tgVpUgsQ5k?si=CnzxezPoooL23Ada,BFS,DSA,Graph,4
+https://youtu.be/Qzf1a--rhp8?si=Nrgxo6t3EyQdkhkU,DFS,DSA,Graph,5
+https://youtu.be/muncqlKJrH0?si=dlZtCQxyo8MK96rt,No of Islands,DSA,Graph,6
+https://youtu.be/C-2_uSRli8o?si=pIHRScts_44F4pqn,Flood Fill Algorithms,DSA,Graph,7
+https://youtu.be/tqQ5fTamIN4?si=oaKHsPqy-y95jysg,Stack and queue Intro ,DSA,Stack & Queue,1
+https://youtu.be/xwjS0iZhw4I?si=o73m1MTk1PadCJ2H,Balanced Paranthesis,DSA,Stack & Queue,2
+https://youtu.be/4pIc9UBHJtk?si=J6UGXwFy71wJ4Dvk,"Prefix,infix,postfix",DSA,Stack & Queue,3
+https://youtu.be/NdDIaH91P0g?si=IeDaVeboaGfN0-x_,Implement min stacck,DSA,Stack & Queue,4
+https://youtu.be/e7XQLtOQM3I?si=XvYS9Z_aMimhWhQu,Next greater element,DSA,Stack & Queue,5
+https://youtu.be/zMdbdGJNlh4?si=sqISl3g1f_7vEnZG,Previous smaller element,DSA,Stack & Queue,6
+https://youtu.be/1_5VuquLbXg?si=AYNcETBrE8mNzROj,Trapping rainwater,DSA,Stack & Queue,7
+https://youtu.be/Nq7ok-OyEpg?si=ayFwAKPaQpOhBism,Introduction to linked list,DSA,LINKED LIST,1
+https://youtu.be/VaECK03Dz-g?si=rTz65Xp2PQUpKvNK,Deletion and insertion in LL,DSA,LINKED LIST,2
+https://youtu.be/0eKMU10uEDI?si=XJ2SUq4iKyUv-RlQ,Introduction to Doublyl inked list,DSA,LINKED LIST,3
+https://youtu.be/u3WUW2qe6ww?si=rNEtCQGS68j39p80,Reverse a DLL,DSA,LINKED LIST,4
+https://youtu.be/XmRrGzR6udg?si=2yQdw7_nG-xejCGL,Add two numbers in LL,DSA,LINKED LIST,5
+https://youtu.be/gRII7LhdJWc?si=Zec5krVUa9mlx_Zg,"Sort LL of 0,1,2",DSA,LINKED LIST,6
+https://youtu.be/D2vI2DNJGd8?si=LcKmYESI76jO9yI4,Reverse a LL,DSA,LINKED LIST,7
+https://youtu.be/qQd-ViW7bfk?si=mEYBBMa6E5gXJyuf,Intro to bit manipulation ,DSA,BIT MANIPULATION,1
+https://youtu.be/nttpF8kwgd4?si=wXvYdBvC7QTw1LXu,Bit Manipulation tricks,DSA,BIT MANIPULATION,2
+https://youtu.be/OOdrmcfZXd8?si=HoYYI3rB7cVvbjx1,Minimum Bit Flips ,DSA,BIT MANIPULATION,3
+https://youtu.be/LqKaUv1G3_I?si=DcGSh4utWt75fXpq,Power Set Bit manipulation ,DSA,BIT MANIPULATION,4
+https://youtu.be/WqGb7159h7Q?si=xBrHu0iKo0kWqTOx,XOR of number in given range,DSA,BIT MANIPULATION,5
+https://youtu.be/pBD4B1tzgVc?si=wOXNDYFFc2GHGteM,Divide two integer without operator,DSA,BIT MANIPULATION,6

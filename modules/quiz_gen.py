@@ -11,7 +11,7 @@ def generate_quiz(transcript_text, api_key, max_retries=3):
         
         # The prompt with a strict schema definition
         prompt = f"""
-        You are an AI educational tutor. Generate a 3-question multiple-choice quiz based ONLY on the following transcript.
+        You are an AI educational tutor. Generate a 7-question multiple-choice quiz based ONLY on the following transcript.
         
         The output MUST be a JSON array of objects. 
         Each object must follow exactly this schema:
@@ -36,13 +36,18 @@ def generate_quiz(transcript_text, api_key, max_retries=3):
                     )
                 )
                 
+                # Safely check if the response has text before parsing
+                if not response or not response.text:
+                    raise ValueError("Empty response returned from Gemini API.")
+                    
                 # Convert the JSON string response directly into a Python dictionary/list
                 quiz_data = json.loads(response.text)
                 return quiz_data
                 
             except Exception as e:
-                # If it's a 503 Server Busy error, and we haven't run out of retries...
-                if "503" in str(e) and attempt < max_retries - 1:
+                error_msg = str(e)
+                # Retry if: Server Busy (503), JSON parsing fails, or Empty Response (ValueError)
+                if ("503" in error_msg or isinstance(e, json.JSONDecodeError) or isinstance(e, ValueError)) and attempt < max_retries - 1:
                     wait_time = 2 ** attempt  # Wait 1s, then 2s, then 4s
                     time.sleep(wait_time)
                     continue # Try the loop again

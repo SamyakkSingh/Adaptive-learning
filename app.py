@@ -177,4 +177,4 @@ if st.session_state.get('quiz_submitted', False):
             del st.session_state['quiz_score']
             del st.session_state['next_video']
 
-        st.button("🎬 Watch Next Recommended Video ➔", type="primary", use_container_width=True, on_click=load_next_video)
+        st.button(" Watch Next Recommended Video ➔", type="primary", use_container_width=True, on_click=load_next_video)
